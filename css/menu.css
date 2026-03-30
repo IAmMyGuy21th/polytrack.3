@@ -19,6 +19,16 @@
 	filter: drop-shadow(0 0 3px #000);
 }
 
+.menu > .logo-subtitle {
+	margin: -150px auto 110px auto;
+	padding: 0;
+	color: var(--text-color);
+	font-size: 28px;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
 .menu .button-image {
 	display: inline-block;
 	margin: 10px 0;
